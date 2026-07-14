@@ -1,0 +1,21 @@
+# Python environment caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Environment configurations & local secrets
+.env
+.env.local
+
+# Streamlit configurations
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# System & Data
+.DS_Store
+*.csv
+*.xlsx
+!sales.csv
