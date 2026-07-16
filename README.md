@@ -1,7 +1,16 @@
-# ✨ Aurora Clarity v2.0 — Setup & Implementation Guide
+## 🏆 Microsoft Imagine Cup 2026 Submission
+> **This MVP was built and submitted to the Microsoft Imagine Cup 2026 in January.** 
 > Next-Generation Enterprise Conversational BI & Automated MLOps Pipeline
 > MVP — 100% cloud-integrated, runs on WSL/Linux/Windows Terminal on budget developer hardware
 
+### 📺 Video Demos & Presentations
+
+| 🎥 Pitch & Overview Demo | 🛠️ Technical Walkthrough |
+| :---: | :---: |
+| [![Watch Pitch Video](https://img.youtube.com/vi/PcImaj2hNKI/maxresdefault.jpg)](https://youtu.be/PcImaj2hNKI) | [![Watch Technical Video](https://img.youtube.com/vi/Kd1OjV7slzQ/maxresdefault.jpg)](https://youtu.be/Kd1OjV7slzQ) |
+| [👉 Watch the Pitch Presentation](https://youtu.be/PcImaj2hNKI) | [👉 Watch the Technical Deep-Dive](https://youtu.be/Kd1OjV7slzQ) |
+
+---
 ---
 
 ## 📁 Final Project Structure
