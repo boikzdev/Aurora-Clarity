@@ -13,7 +13,7 @@ Aurora-Clarity-Azure/
 ├── .env                        # Local environment credentials (do NOT commit)
 ├── .env.example                # Template for environment configuration
 ├── .gitignore                  # Git tracking exclusion patterns
-├── app_hacking.py              # Local static security audit compliance script
+├── app_insecpection.py              # Local static security audit compliance script
 └── README.md                   # Setup and Imagine Cup Project Guide
 ```
 
